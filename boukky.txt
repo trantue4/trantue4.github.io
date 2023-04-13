@@ -1,0 +1,575 @@
+# Chapter 1: Introduction to Hyperadobe
+
+Hyperadobe is a low-cost, low-impact and sustainable building method that uses earth-filled fabric tubes to create walls, domes and other structures. Hyperadobe was developed by Fernando Pacheco, a Brazilian architect and permaculture teacher, who adapted the superadobe technique invented by Iranian-American architect Nader Khalili.
+
+Hyperadobe differs from superadobe in several ways:
+
+- It uses mesh fabric tubes instead of woven polypropylene bags. Mesh fabric is cheaper, lighter, easier to handle and allows excess water to drain out of the earth fill.
+- It uses barbed wire only at the base and the top of the walls, not between every layer of tubes. This reduces the cost and the amount of metal used in the construction.
+- It uses a continuous tube that is coiled around a circular or oval foundation, rather than individual bags that are stacked on top of each other. This creates a stronger and more uniform structure that can be built faster and with less labor.
+
+Hyperadobe has many advantages over conventional building methods:
+
+- It is affordable and accessible. The materials are widely available and inexpensive. The tools are simple and easy to use. The technique can be learned by anyone in a short time.
+- It is ecological and resilient. It uses local and natural resources that have minimal environmental impact. It creates durable and energy-efficient structures that can withstand earthquakes, floods, fire and pests.
+- It is creative and versatile. It allows for a variety of shapes, sizes and designs that can suit different needs and preferences. It encourages artistic expression and cultural diversity.
+
+In this book, you will learn everything you need to know to build your own hyperadobe structures, from planning and design to construction and finishing. You will also see examples of hyperadobe projects from around the world that showcase the beauty and potential of this innovative technology.
+
+## The History of Hyperadobe
+
+Hyperadobe is a relatively new building method that emerged in the early 21st century, but it has its roots in ancient and traditional techniques that have been used for thousands of years in different cultures and regions.
+
+The main inspiration for hyperadobe is superadobe, a technique that was developed by Nader Khalili in the 1980s. Khalili was an Iranian-American architect who dedicated his life to finding solutions for low-cost and sustainable housing, especially for refugees and disaster victims. He founded the Cal-Earth Institute in California, where he taught and experimented with various earth-based building methods.
+
+Superadobe is one of Khalili's most famous inventions. It consists of filling woven polypropylene bags with moistened earth and stacking them in layers to form walls, domes and vaults. The bags are reinforced with barbed wire between each layer to provide tensile strength and stability. The structures are then plastered with earth or cement to protect them from weathering and erosion.
+
+Superadobe was originally designed for lunar and Martian habitats, as part of a NASA-sponsored research project. Khalili envisioned using the soil from the planets as the main building material, and using inflatable forms to shape the structures. He later adapted the technique for terrestrial applications, using local earth and manual labor.
+
+Superadobe has been used to build houses, schools, clinics, mosques and other buildings in many countries, such as Iran, Iraq, Afghanistan, Pakistan, India, Mexico, Chile, Peru, Brazil, Colombia, Haiti, Ghana and Mali. It has also been recognized by the United Nations as a safe and appropriate technology for humanitarian relief and development.
+
+Hyperadobe was created by Fernando Pacheco, a Brazilian architect and permaculture teacher who learned superadobe from Khalili at Cal-Earth in 2006. Pacheco was impressed by the simplicity and efficiency of superadobe, but he also saw some limitations and challenges:
+
+- The woven polypropylene bags were expensive and difficult to find in Brazil. They also had a high environmental impact due to their synthetic origin and non-biodegradable nature.
+- The barbed wire was also costly and scarce in some areas. It also posed a safety hazard for the workers and the users of the buildings.
+- The individual bags were cumbersome and time-consuming to fill and place. They also created gaps and irregularities in the walls that required more plastering and finishing.
+
+Pacheco decided to modify the superadobe technique by replacing the bags with mesh fabric tubes that he found in a local market. The tubes were originally used for packaging fruits and vegetables. They were cheap, abundant and biodegradable. They also had a better drainage capacity than the bags, allowing excess water to escape from the earth fill.
+
+Pacheco also reduced the use of barbed wire to only the base and the top of the walls, relying on the friction and compression of the tubes to hold them together. He also used a continuous tube that he coiled around a circular or oval foundation, rather than individual bags that he stacked on top of each other. This created a smoother and stronger structure that could be built faster and with less labor.
+
+Pacheco named his technique hyperadobe (hyper meaning over or above in Greek) to indicate its improvement over superadobe. He started teaching and promoting hyperadobe in Brazil and other Latin American countries. He also founded the EcoOca Institute in Sao Paulo, where he offers courses and workshops on hyperadobe and other ecological building methods.
+
+Hyperadobe has been gaining popularity and recognition as a viable alternative to superadobe and other conventional building methods. It has been used to build houses, cabins, studios, schools, community centers
+
+## The Principles of Hyperadobe
+
+Hyperadobe is based on a few simple principles that make it an effective and efficient building method. These principles are:
+
+- Earth as the main material. Earth is the most abundant and accessible building material on the planet. It is also natural, renewable and recyclable. It has excellent thermal and acoustic properties, creating comfortable and healthy indoor environments. It can be easily shaped and molded to create various forms and designs. It can also be mixed with other natural additives, such as straw, sand, lime or clay, to enhance its performance and durability.
+- Fabric tubes as the formwork. Fabric tubes are the key element that distinguishes hyperadobe from other earth-based building methods. They act as flexible and lightweight formwork that holds the earth fill in place and gives it the desired shape and size. They also allow for easy drainage of excess water from the earth fill, preventing problems such as cracking, shrinking or swelling. They also eliminate the need for wooden or metal molds that are usually required for other earth-based building methods, such as rammed earth or cob.
+- Coiling as the technique. Coiling is the technique of winding a continuous tube around a circular or oval foundation to create walls, domes and other structures. Coiling is an ancient and universal technique that has been used for making pottery, baskets and other crafts. Coiling has many advantages over stacking or laying individual bags or bricks. It creates a more uniform and compact structure that can resist lateral forces and bending moments. It also allows for more flexibility and creativity in creating different shapes and patterns. It also reduces the amount of cutting and joining of the tubes, saving time and material.
+- Compression as the force. Compression is the force that acts on the hyperadobe structure due to its own weight and gravity. Compression is a beneficial force that increases the strength and stability of the structure. Compression is achieved by tamping or compacting each layer of tubes after placing them on the foundation or on the previous layer. Tamping can be done manually with a wooden or metal rod, or mechanically with a pneumatic or electric tamper. Tamping ensures that there are no air pockets or voids in the earth fill that can compromise the integrity of the structure.
+- Reinforcement as the support. Reinforcement is the additional support that is provided to the hyperadobe structure to prevent it from collapsing or deforming due to external forces, such as wind, earthquake or human activity. Reinforcement can be divided into two types: internal and external.
+
+Internal reinforcement consists of barbed wire that is placed at the base and the top of the walls, as well as at any openings or junctions. Barbed wire provides tensile strength and friction to the structure, preventing it from sliding or separating. Barbed wire can also be used to anchor the structure to the foundation or to other elements, such as columns or beams.
+
+External reinforcement consists of plastering or coating that is applied to both sides of the walls after they are completed. Plastering or coating protects the structure from weathering and erosion, as well as from insects and rodents. Plastering or coating can also improve the appearance and aesthetics of the structure, adding color and texture to it. Plastering or coating can be made of earth, lime, cement or other natural materials.
+
+## The Process of Hyperadobe
+
+Hyperadobe is a simple and straightforward building method that can be divided into six main steps:
+
+- Step 1: Planning and Design. This is the stage where you decide what kind of structure you want to build, where you want to build it, how big and how high you want it to be, what shape and style you want it to have, and what materials and tools you need for it. You can use sketches, drawings, models or computer software to help you visualize and communicate your ideas. You can also consult with experts, such as architects, engineers or builders, to ensure that your design meets the technical and legal requirements of your location and situation.
+- Step 2: Site Preparation. This is the stage where you prepare the site where you want to build your structure. You need to clear the site of any vegetation, debris or obstacles that can interfere with your construction. You also need to level the site and mark the outline of your foundation. You also need to dig a trench around the perimeter of your foundation to place the barbed wire and the first layer of tubes. You also need to gather and store the materials and tools that you will use for your construction.
+- Step 3: Foundation Construction. This is the stage where you build the foundation for your structure. The foundation is the base that supports and distributes the weight of your structure. The foundation can be made of different materials, such as stone, concrete, brick or wood. The foundation can also have different shapes, such as circular, oval, rectangular or polygonal. The foundation should be level, stable and strong enough to withstand the load of your structure. The foundation should also be slightly larger than the outline of your walls to prevent them from collapsing or cracking.
+- Step 4: Wall Construction. This is the stage where you build the walls for your structure. The walls are the main element that defines the shape and size of your structure. The walls are made by coiling a continuous fabric tube around the foundation and tamping it with earth fill. You need to place barbed wire at the base and the top of the walls, as well as at any openings or junctions. You also need to cut and join the tubes when necessary, using scissors and needle and thread. You also need to make sure that the walls are straight, level and plumb as you build them.
+- Step 5: Roof Construction. This is the stage where you build the roof for your structure. The roof is the element that covers and protects your structure from rain, sun and wind. The roof can be made of different materials, such as wood, metal, tile or thatch. The roof can also have different shapes, such as flat, pitched or domed. The roof should be attached securely to the walls and supported by columns or beams if necessary. The roof should also have adequate ventilation and insulation to regulate the temperature and humidity inside your structure.
+- Step 6: Finishing and Decoration. This is the stage where you complete and beautify your structure. You need to plaster or coat both sides of the walls with earth or other materials to protect them from weathering and erosion. You also need to add doors, windows, floors, furniture and other elements that make your structure functional and comfortable. You also need to decorate your structure with paint, tiles, murals or other elements that make your structure attractive and unique.
+
+## The Applications of Hyperadobe
+
+Hyperadobe is a versatile and adaptable building method that can be used for a variety of applications and purposes. Some of the most common and popular applications of hyperadobe are:
+
+- Housing. Hyperadobe can be used to build houses of different sizes, shapes and styles, from small cabins and cottages to large villas and mansions. Hyperadobe houses can provide comfortable and healthy living spaces for individuals, families and communities. Hyperadobe houses can also be customized and personalized to suit different needs and preferences.
+- Education. Hyperadobe can be used to build schools, classrooms, libraries and other educational facilities that can provide quality and accessible learning opportunities for children and adults. Hyperadobe educational facilities can also promote environmental awareness and social responsibility among students and teachers.
+- Health. Hyperadobe can be used to build clinics, hospitals, dispensaries and other health facilities that can provide essential and affordable health care services for people and animals. Hyperadobe health facilities can also foster a holistic and natural approach to health and wellness.
+- Culture. Hyperadobe can be used to build museums, galleries, theaters and other cultural facilities that can showcase and celebrate the artistic and historical heritage of different cultures and regions. Hyperadobe cultural facilities can also stimulate creativity and innovation among artists and audiences.
+- Recreation. Hyperadobe can be used to build parks, playgrounds, sports fields and other recreational facilities that can offer fun and enjoyable activities for people of all ages and abilities. Hyperadobe recreational facilities can also encourage physical fitness and mental well-being among users.
+- Agriculture. Hyperadobe can be used to build barns, stables, greenhouses and other agricultural facilities that can support the production and storage of food and other products. Hyperadobe agricultural facilities can also enhance the sustainability and resilience of farming systems.
+- Industry. Hyperadobe can be used to build workshops, factories, warehouses and other industrial facilities that can enable the manufacture and distribution of goods and services. Hyperadobe industrial facilities can also reduce the environmental impact and resource consumption of industrial processes.
+
+These are just some examples of the many possible applications of hyperadobe. You can use your imagination and creativity to come up with your own ideas and projects that can benefit from this innovative technology.
+
+In the next chapters, you will learn more about the practical aspects of hyperadobe construction, such as how to choose the right materials, how to prepare the site, how to coil the tubes, how to plaster the walls, how to make openings and junctions, how to build domes and vaults, how to add utilities and amenities, how to maintain and repair your structures, how to troubleshoot common problems, how to estimate costs and time, how to comply with codes and regulations, how to work safely and efficiently, how to collaborate with others, how to document your work, how to share your experience, how to learn from others, how to improve your skills, how to innovate your designs.
+
+We hope that this book will inspire you to start your own hyperadobe adventure and join the growing community of hyperadobe enthusiasts around the world.
+
+Happy building!
+
+
+
+# Chapter 2: Materials and Tools for Hyperadobe
+
+In this chapter, you will learn about the materials and tools that you need to build your hyperadobe structures. You will also learn how to choose, prepare and store them properly.
+
+The main materials that you need for hyperadobe are:
+
+- Earth
+- Fabric tubes
+- Barbed wire
+- Plaster or coating
+
+The main tools that you need for hyperadobe are:
+
+- Shovel
+- Wheelbarrow
+- Bucket
+- Tamper
+- Scissors
+- Needle and thread
+- Level
+- Plumb bob
+- Compass
+- Tape measure
+- Knife
+- Hammer
+- Nails
+- Wire cutter
+- Trowel
+
+You may also need some additional materials and tools depending on your design and situation, such as:
+
+- Foundation materials (stone, concrete, brick, wood, etc.)
+- Roof materials (wood, metal, tile, thatch, etc.)
+- Door and window materials (wood, metal, glass, etc.)
+- Floor materials (wood, tile, carpet, etc.)
+- Furniture and appliance materials (wood, metal, plastic, etc.)
+- Decoration materials (paint, tile, mural, etc.)
+- Utility and amenity materials (water, electricity, gas, etc.)
+- Column and beam materials (wood, metal, concrete, etc.)
+- Scaffolding materials (wood, metal, etc.)
+- Safety equipment (gloves, boots, helmet, etc.)
+
+In the following sections, we will discuss each material and tool in more detail.
+
+## Earth as a Material
+
+Earth is the most important and abundant material for hyperadobe. Earth is the material that fills the fabric tubes and forms the walls of your structure. Earth is also the material that can be used to plaster or coat your walls to protect them from weathering and erosion.
+
+Earth is a natural, renewable and recyclable material that has many advantages over other building materials, such as:
+
+- Availability. Earth is available almost everywhere on the planet. You can usually find earth on or near your site, or you can source it from nearby locations. You can also reuse earth from previous constructions or excavations. You don't need to transport earth over long distances or import it from other countries, saving time, money and energy.
+- Affordability. Earth is usually free or very cheap to obtain. You don't need to pay for earth or pay taxes or fees for using it. You also don't need to process earth or add chemicals or additives to it, saving more money and resources.
+- Sustainability. Earth has a low environmental impact compared to other building materials. Earth does not require mining, logging, manufacturing or refining, reducing greenhouse gas emissions and pollution. Earth also does not deplete natural resources or generate waste, preserving biodiversity and ecosystems. Earth also has a long lifespan and can be reused or recycled indefinitely, minimizing landfill and disposal problems.
+- Performance. Earth has excellent thermal and acoustic properties that create comfortable and healthy indoor environments. Earth can regulate the temperature and humidity inside your structure, keeping it cool in summer and warm in winter. Earth can also absorb and reflect sound waves, reducing noise and echo inside your structure. Earth can also resist fire, pests and mold, enhancing the safety and durability of your structure.
+- Aesthetics. Earth has a natural and organic appearance that blends well with the surrounding landscape and culture. Earth can also be shaped and molded to create various forms and designs that suit your needs and preferences. Earth can also be colored and textured to add beauty and diversity to your structure.
+
+However, earth is not a uniform or standardized material. Earth varies in its composition, quality and characteristics depending on its origin, location and condition. Therefore, you need to test and analyze your earth before using it for hyperadobe to ensure that it meets the requirements and specifications of your project.
+
+## Testing and Analyzing Earth
+
+Testing and analyzing earth is the process of determining the physical and chemical properties of your earth, such as its texture, moisture, density, strength and color. Testing and analyzing earth can help you to:
+
+- Choose the right type of earth for your project. Not all types of earth are suitable for hyperadobe. You need to choose earth that has the right balance of clay, sand and silt to ensure that it can hold together and form a solid mass. You also need to choose earth that has the right amount of organic matter and minerals to ensure that it can resist weathering and erosion. You also need to choose earth that has the right color and appearance to match your design and preference.
+- Prepare the earth properly for your project. You need to prepare your earth before using it for hyperadobe. You need to remove any stones, roots or debris from your earth that can damage your fabric tubes or create gaps or irregularities in your walls. You also need to moisten your earth to make it easier to fill and tamp your tubes. You also need to mix your earth with other additives, such as straw, sand, lime or clay, to improve its performance and durability.
+- Estimate the quantity and quality of earth for your project. You need to estimate how much earth you need for your project to avoid wasting or running out of material. You also need to estimate how good your earth is for your project to avoid problems or failures in your structure.
+
+There are different methods and tools that you can use to test and analyze your earth, such as:
+
+- Visual inspection. This is the simplest and quickest method of testing your earth. You can use your eyes and hands to observe and feel your earth. You can look at the color, texture and consistency of your earth. You can also touch, squeeze and rub your earth to check its moisture, stickiness and plasticity. You can also smell your earth to detect any odors or contaminants.
+- Jar test. This is a common and easy method of testing your earth. You can use a glass jar with a lid to separate and measure the different components of your earth. You can fill the jar with water and a sample of your earth. You can shake the jar vigorously and let it settle for a few hours or days. You can then observe the layers of clay, silt, sand and organic matter that form in the jar. You can also measure the height of each layer and calculate the percentage of each component in your earth.
+- Sieve test. This is a more accurate and reliable method of testing your earth. You can use a set of sieves with different mesh sizes to sort and weigh the different components of your earth. You can place a sample of your earth on the top sieve and shake it gently over a container or a scale. You can then collect and weigh the material that passes through each sieve and calculate the percentage of each component in your earth.
+- Compression test. This is a useful method of testing the strength and stability of your earth. You can use a device called a proctor compaction tester or a modified version of it to compress a sample of your earth under controlled conditions. You can then measure the density and moisture content of your compressed sample and compare it with standard values or specifications for hyperadobe.
+- Other tests. There are other tests that you can perform on your earth depending on your needs and resources, such as:
+
+  - pH test: This test measures the acidity or alkalinity of your earth, which can affect its reaction with other materials or substances.
+  - Shrinkage test: This test measures how much your earth shrinks or expands when it dries or gets wet, which can affect its size and shape.
+  - Erosion test: This test measures how much your earth erodes or wears away when exposed to water or wind, which can affect its durability and appearance.
+  - Color test: This test measures the hue, saturation and brightness of your earth, which can affect its aesthetics and compatibility with other materials.
+
+You don't need to perform all these tests on your earth. You can choose the tests that are most relevant
+
+## Preparing Earth for Hyperadobe
+
+Preparing earth for hyperadobe is the process of making your earth ready to use for filling and tamping your fabric tubes. Preparing earth for hyperadobe involves three main steps:
+
+- Step 1: Sifting. This is the step where you remove any stones, roots or debris from your earth that can damage your fabric tubes or create gaps or irregularities in your walls. You can use a sieve, a screen or a cloth to sift your earth. You can also use your hands to pick out any unwanted material from your earth. You should aim to have earth that is fine and uniform in size and texture.
+- Step 2: Moistening. This is the step where you add water to your earth to make it easier to fill and tamp your tubes. You can use a bucket, a hose or a sprinkler to moisten your earth. You can also use your hands to mix and knead your earth with water. You should aim to have earth that is moist but not wet or muddy. You can test the moisture of your earth by squeezing a handful of it in your palm. If it forms a ball that holds together without cracking or dripping, then it has the right moisture level.
+- Step 3: Mixing. This is the step where you add other additives to your earth to improve its performance and durability. You can use straw, sand, lime or clay as additives for your earth. Straw can help to reduce shrinkage and cracking of your earth. Sand can help to increase drainage and stability of your earth. Lime can help to harden and waterproof your earth. Clay can help to bind and plasticize your earth. You can use a shovel, a hoe or a mixer to mix your earth with the additives. You can also use your hands to blend and homogenize your earth with the additives. You should aim to have earth that has the right balance of clay, sand and silt to ensure that it can hold together and form a solid mass.
+
+You don't need to prepare all your earth at once. You can prepare enough earth for one or two layers of tubes at a time, depending on the size and speed of your project. You can also store your prepared earth in a pile or a container until you are ready to use it.
+
+## Fabric Tubes as a Material
+
+Fabric tubes are the second most important material for hyperadobe. Fabric tubes are the material that act as flexible and lightweight formwork that holds the earth fill in place and gives it the desired shape and size. Fabric tubes also allow for easy drainage of excess water from the earth fill, preventing problems such as cracking, shrinking or swelling.
+
+Fabric tubes are a key element that distinguishes hyperadobe from other earth-based building methods. They eliminate the need for wooden or metal molds that are usually required for other earth-based building methods, such as rammed earth or cob.
+
+Fabric tubes have many advantages over other formwork materials, such as:
+
+- Availability. Fabric tubes are widely available and inexpensive. You can usually find fabric tubes in local markets or stores that sell fruits and vegetables. You can also order fabric tubes online or from specialized suppliers. You can also reuse fabric tubes from previous constructions or other sources.
+- Affordability. Fabric tubes are cheap and cost-effective. You don't need to pay much for fabric tubes or pay taxes or fees for using them. You also don't need to process fabric tubes or add chemicals or additives to them, saving more money and resources.
+- Sustainability. Fabric tubes have a low environmental impact compared to other formwork materials. Fabric tubes are made of natural and biodegradable materials, such as cotton, jute or sisal. They do not require mining, logging, manufacturing or refining, reducing greenhouse gas emissions and pollution. They also do not deplete natural resources or generate waste, preserving biodiversity and ecosystems. They also have a long lifespan and can be reused or recycled indefinitely, minimizing landfill and disposal problems.
+- Performance. Fabric tubes have excellent physical and mechanical properties that make them suitable for hyperadobe. Fabric tubes are flexible and adaptable, allowing them to conform to different shapes and sizes. Fabric tubes are also strong and resilient, allowing them to withstand pressure and tension. Fabric tubes also have a high drainage capacity, allowing them to release excess water from the earth fill.
+- Aesthetics. Fabric tubes have a simple and elegant appearance that complements the natural and organic look of earth. Fabric tubes can also be colored and patterned to add variety and contrast to your structure.
+
+However, fabric tubes are not a uniform or standardized material. Fabric tubes vary in their composition, quality and characteristics depending on their origin, manufacturer and condition. Therefore, you need to test and analyze your fabric tubes before using them for hyperadobe to ensure that they meet the requirements and specifications of your project.
+
+## Testing and Analyzing Fabric Tubes
+
+Testing and analyzing fabric tubes is the process of determining the physical and chemical properties of your fabric tubes, such as their size, shape, material, density, strength and color. Testing and analyzing fabric tubes can help you to:
+
+- Choose the right type of fabric tubes for your project. Not all types of fabric tubes are suitable for hyperadobe. You need to choose fabric tubes that have the right diameter and length to fit your design and preference. You also need to choose fabric tubes that have the right material and weave to ensure that they are strong and durable. You also need to choose fabric tubes that have the right color and appearance to match your design and preference.
+- Prepare the fabric tubes properly for your project. You need to prepare your fabric tubes before using them for hyperadobe. You need to cut and join the fabric tubes when necessary, using scissors and needle and thread. You also need to coil the fabric tubes around your foundation or your previous layer of tubes, using a level, a plumb bob, a compass and a tape measure. You also need to secure the fabric tubes with barbed wire at the base and the top of the walls, as well as at any openings or junctions, using a hammer, nails and a wire cutter.
+- Estimate the quantity and quality of fabric tubes for your project. You need to estimate how many fabric tubes you need for your project to avoid wasting or running out of material. You also need to estimate how good your fabric tubes are for your project to avoid problems or failures in your structure.
+
+There are different methods and tools that you can use to test and analyze your fabric tubes, such as:
+
+- Visual inspection. This is the simplest and quickest method of testing your fabric tubes. You can use your eyes and hands to observe and feel your fabric tubes. You can look at the size, shape, material, weave and color of your fabric tubes. You can also touch, stretch and twist your fabric tubes to check their density, strength and elasticity. You can also smell your fabric tubes to detect any odors or contaminants.
+- Measurement test. This is a common and easy method of testing your fabric tubes. You can use a ruler, a tape measure or a caliper to measure the diameter and length of your fabric tubes. You can also use a scale or a balance to weigh your fabric tubes. You can then calculate the volume and density of your fabric tubes.
+- Tensile test. This is a useful method of testing the strength and durability of your fabric tubes. You can use a device called a tensiometer or a modified version of it to pull a sample of your fabric tube until it breaks or tears. You can then measure the force and elongation of your sample and compare it with standard values or specifications for hyperadobe.
+- Other tests. There are other tests that you can perform on your fabric tubes depending on your needs and resources, such as:
+
+  - Water absorption test: This test measures how much water your fabric tube absorbs or releases when it gets wet or dry, which can affect its size and shape.
+  - UV resistance test: This test measures how much your fabric tube fades or degrades when exposed to sunlight, which can affect its durability and appearance.
+  - Biodegradability test: This test measures how long it takes for your fabric tube to decompose or disintegrate when buried in soil or compost, which can affect its environmental impact.
+
+You don't need to perform all these tests on your fabric tubes. You can choose the tests that are most relevant
+
+## Coiling the Fabric Tubes
+
+Coiling the fabric tubes is the main technique that you use to build your hyperadobe walls. Coiling the fabric tubes involves winding a continuous fabric tube around your foundation or your previous layer of tubes and tamping it with earth fill. Coiling the fabric tubes creates a smooth and strong structure that can resist lateral forces and bending moments.
+
+Coiling the fabric tubes has many advantages over stacking or laying individual bags or bricks, such as:
+
+- Speed. Coiling the fabric tubes is faster and easier than stacking or laying individual bags or bricks. You don't need to fill and place each bag or brick separately, saving time and labor. You also don't need to cut and join the tubes as often, saving material and effort.
+- Uniformity. Coiling the fabric tubes creates a more uniform and compact structure than stacking or laying individual bags or bricks. You don't have to deal with gaps or irregularities between each bag or brick, reducing plastering and finishing work. You also don't have to worry about alignment or leveling issues, improving accuracy and quality.
+- Flexibility. Coiling the fabric tubes allows for more flexibility and creativity in creating different shapes and patterns than stacking or laying individual bags or bricks. You can coil the tubes in circular, oval, rectangular or polygonal shapes, depending on your design and preference. You can also coil the tubes in straight, curved or spiral patterns, depending on your style and taste.
+
+However, coiling the fabric tubes is not a simple or intuitive technique. Coiling the fabric tubes requires skill and practice to master. You need to follow some basic rules and guidelines to coil the fabric tubes correctly and efficiently, such as:
+
+- Start from the center and work your way outwards. This will ensure that your structure is balanced and symmetrical.
+- Keep the tube tight and taut as you coil it. This will prevent sagging or bulging of the tube that can compromise the integrity of your structure.
+- Fill and tamp each layer of tube before coiling the next one. This will ensure that your structure is solid and stable.
+- Use a level, a plumb bob, a compass and a tape measure to check the straightness, levelness, plumbness and size of your structure as you coil it. This will ensure that your structure is accurate and precise.
+- Secure each layer of tube with barbed wire at the base and the top of the walls, as well as at any openings or junctions. This will provide tensile strength and friction to your structure, preventing it from sliding or separating.
+
+You can also use some tips and tricks to improve your coiling technique, such as:
+
+- Use a funnel or a pipe to fill the tube with earth more easily and evenly.
+- Use a stick or a rod to poke holes in the tube to release air pockets or excess water from the earth fill.
+- Use a rope or a string to mark the outline of your foundation or your previous layer of tubes to guide your coiling direction and position.
+- Use a clamp or a clip to hold the end of the tube when you cut or join it to prevent it from unraveling or spilling.
+
+## Plastering or Coating as a Material
+
+Plastering or coating is the fourth most important material for hyperadobe. Plastering or coating is the material that covers and protects your hyperadobe walls from weathering and erosion. Plastering or coating also improves the appearance and aesthetics of your hyperadobe structure, adding color and texture to it.
+
+Plastering or coating can be made of different materials, such as:
+
+- Earth. Earth is the most natural and compatible material for plastering or coating your hyperadobe walls. Earth can be used as it is or mixed with other additives, such as straw, sand, lime or clay. Earth can create a smooth or rough finish on your walls, depending on how you apply it. Earth can also be colored with natural pigments, such as ochre, charcoal or turmeric.
+- Lime. Lime is a common and traditional material for plastering or coating your hyperadobe walls. Lime is made of calcium carbonate that is extracted from limestone or shells. Lime can be used as it is or mixed with other additives, such as sand, clay or straw. Lime can create a smooth and hard finish on your walls, depending on how you apply it. Lime can also be colored with natural or synthetic pigments, such as iron oxide, copper sulfate or titanium dioxide.
+- Cement. Cement is a modern and industrial material for plastering or coating your hyperadobe walls. Cement is made of calcium silicate that is produced from limestone and clay. Cement can be used as it is or mixed with other additives, such as sand, gravel or fibers. Cement can create a smooth and strong finish on your walls, depending on how you apply it. Cement can also be colored with natural or synthetic pigments, such as iron oxide, copper sulfate or titanium dioxide.
+
+Plastering or coating has many advantages over leaving your walls bare, such as:
+
+- Protection. Plastering or coating protects your walls from weathering and erosion caused by rain, sun and wind. Plastering or coating also protects your walls from insects and rodents that can damage or infest them.
+- Durability. Plastering or coating increases the durability and lifespan of your walls by preventing cracks, holes or gaps that can compromise their integrity.
+- Appearance. Plastering or coating improves the appearance and aesthetics of your walls by adding color and texture to them. Plastering or coating also hides any imperfections or irregularities that may exist in your walls.
+- Comfort. Plastering or coating enhances the comfort and health of your indoor environment by regulating the temperature and humidity inside your structure. Plastering or coating also reduces the noise and echo inside your structure by absorbing and reflecting sound waves.
+
+However, plastering or coating is not a simple or easy task. Plastering or coating requires skill and practice to master. You need to follow some basic rules and guidelines to plaster or coat your walls correctly and efficiently, such as:
+
+- Prepare your walls before plastering or coating them. You need to clean your walls of any dust, dirt or debris that can interfere with the adhesion of your plaster or coating. You also need to moisten your walls to prevent them from absorbing too much water from your plaster or coating.
+- Choose the right type of plaster or coating for your project. You need to choose a plaster
+
+## Choosing the Right Type of Plaster or Coating
+
+Choosing the right type of plaster or coating for your project is an important decision that can affect the performance and appearance of your hyperadobe structure. You need to consider several factors when choosing your plaster or coating, such as:
+
+- Compatibility. You need to choose a plaster or coating that is compatible with your earth and fabric tubes. You need to avoid any chemical or physical reactions that can damage or weaken your materials. You also need to match the expansion and contraction rates of your materials to prevent cracks or gaps in your walls.
+- Durability. You need to choose a plaster or coating that is durable and resistant to weathering and erosion. You need to consider the climate and conditions of your location and situation. You also need to consider the maintenance and repair needs of your plaster or coating.
+- Appearance. You need to choose a plaster or coating that matches your design and preference. You need to consider the color, texture and finish of your plaster or coating. You also need to consider the visual and emotional impact of your plaster or coating on yourself and others.
+- Cost. You need to choose a plaster or coating that fits your budget and resources. You need to consider the availability and affordability of your plaster or coating. You also need to consider the labor and time required to apply your plaster or coating.
+
+There is no single or best type of plaster or coating for hyperadobe. Each type of plaster or coating has its own advantages and disadvantages that you need to weigh and balance according to your needs and preferences.
+
+Here are some examples of different types of plaster or coating that you can use for hyperadobe:
+
+- Earth plaster or coating. This is the most natural and compatible type of plaster or coating for hyperadobe. It is made of earth that is mixed with water and other additives, such as straw, sand, lime or clay. It can create a smooth or rough finish on your walls, depending on how you apply it. It can also be colored with natural pigments, such as ochre, charcoal or turmeric. Earth plaster or coating is cheap and easy to make and apply. It is also ecological and biodegradable. However, earth plaster or coating is not very durable or resistant to weathering and erosion. It can crack, crumble or wash away over time. It also requires regular maintenance and repair.
+- Lime plaster or coating. This is a common and traditional type of plaster or coating for hyperadobe. It is made of lime that is mixed with water and other additives, such as sand, clay or straw. It can create a smooth and hard finish on your walls, depending on how you apply it. It can also be colored with natural or synthetic pigments, such as iron oxide, copper sulfate or titanium dioxide. Lime plaster or coating is durable and resistant to weathering and erosion. It can harden and waterproof your walls over time. It also has antibacterial and antifungal properties that can prevent mold and mildew growth on your walls. However, lime plaster or coating is more expensive and difficult to make and apply than earth plaster
+
+## Cement Plaster or Coating
+
+Cement plaster or coating is a modern and industrial type of plaster or coating for hyperadobe. It is made of cement that is mixed with water and other additives, such as sand, gravel or fibers. It can create a smooth and strong finish on your walls, depending on how you apply it. It can also be colored with natural or synthetic pigments, such as iron oxide, copper sulfate or titanium dioxide. Cement plaster or coating is very durable and resistant to weathering and erosion. It can create a solid and impermeable layer on your walls that can protect them from water or wind damage. It also has fireproof and pest-proof properties that can enhance the safety and durability of your structure. However, cement plaster or coating is more expensive and difficult to make and apply than earth or lime plaster or coating. It also has a high environmental impact due to its synthetic origin and non-biodegradable nature. It also requires more energy and resources to produce and transport. It also has a low compatibility with earth and fabric tubes, creating cracks or gaps due to different expansion and contraction rates. It also has a low thermal and acoustic performance, creating cold and noisy indoor environments.
+
+## Applying Plaster or Coating to Your Walls
+
+Applying plaster or coating to your walls is the final step of your hyperadobe construction. Applying plaster or coating to your walls involves spreading and smoothing your plaster or coating material over both sides of your walls using a trowel or a spatula. Applying plaster or coating to your walls requires skill and practice to master. You need to follow some basic rules and guidelines to apply your plaster or coating correctly and efficiently, such as:
+
+- Apply your plaster or coating in thin and even layers. This will ensure that your plaster or coating adheres well to your walls and dries faster and harder.
+- Apply your plaster or coating from bottom to top and from left to right. This will prevent dripping or sagging of your plaster or coating material.
+- Apply your plaster or coating in dry and warm weather conditions. This will prevent moisture or temperature fluctuations that can affect the drying and curing of your plaster or coating material.
+- Apply your plaster or coating in sections or stages. This will allow you to work on small areas at a time and avoid mistakes or inconsistencies.
+- Apply your plaster or coating with care and attention. This will ensure that you cover all the surfaces and edges of your walls and avoid gaps or cracks in your plaster or coating material.
+
+You can also use some tips and tricks to improve your plastering or coating technique, such as:
+
+- Use a sponge, a brush or a cloth to wet your walls before applying your plaster or coating material. This will improve the adhesion and hydration of your plaster or coating material.
+- Use a spray bottle, a hose or a sprinkler to moisten your plaster or coating material after applying it to your walls. This will prevent cracking or shrinking of your plaster or coating material due to rapid drying.
+- Use a roller, a squeegee or a scraper to smooth out any bumps
+
+## Tools for Hyperadobe
+
+Tools are the devices or instruments that you use to perform various tasks or operations in your hyperadobe construction. Tools can help you to work faster, easier and better. Tools can also help you to avoid injuries or accidents.
+
+The main tools that you need for hyperadobe are:
+
+- Shovel. A shovel is a tool that you use to dig, lift and move earth or other materials. You need a shovel to prepare your site, your foundation and your earth for hyperadobe. You can use a shovel with a long or short handle, depending on your preference and comfort.
+- Wheelbarrow. A wheelbarrow is a tool that you use to transport earth or other materials from one place to another. You need a wheelbarrow to move your earth from your source to your site or from your pile to your tubes for hyperadobe. You can use a wheelbarrow with one or two wheels, depending on your preference and terrain.
+- Bucket. A bucket is a tool that you use to hold and carry water or other liquids. You need a bucket to moisten your earth or your plaster or coating material for hyperadobe. You can use a bucket with or without a handle, depending on your preference and convenience.
+- Tamper. A tamper is a tool that you use to compact and compress your earth fill inside your fabric tubes. You need a tamper to ensure that your structure is solid and stable for hyperadobe. You can use a tamper with a wooden or metal head and a long or short handle, depending on your preference and comfort.
+- Scissors. Scissors are tools that you use to cut your fabric tubes when necessary. You need scissors to adjust the length of your tubes or to join them together for hyperadobe. You can use scissors with straight or curved blades and with small or large handles, depending on your preference and accuracy.
+- Needle and thread. Needle and thread are tools that you use to sew your fabric tubes when necessary. You need needle and thread to join your tubes together or to close their ends for hyperadobe. You can use needle and thread with different sizes, shapes and colors, depending on your preference and visibility.
+- Level. A level is a tool that you use to check the horizontal alignment of your structure. You need a level to ensure that your foundation and your walls are level for hyperadobe. You can use a level with a bubble or a laser indicator and with a short or long body, depending on your preference and precision.
+- Plumb bob. A plumb bob is a tool that you use to check the vertical alignment of your structure. You need a plumb bob to ensure that your walls are plumb for hyperadobe. You can use a plumb bob with a metal or wooden weight and with a string or a wire, depending on your preference and accuracy.
+- Compass. A compass is a tool that you use to check the direction of your structure. You need a compass to ensure that
+
+## Additional Materials and Tools for Hyperadobe
+
+In addition to the main materials and tools that you need for hyperadobe, you may also need some additional materials and tools depending on your design and situation, such as:
+
+- Foundation materials. These are the materials that you use to build the foundation for your structure. The foundation is the base that supports and distributes the weight of your structure. The foundation can be made of different materials, such as stone, concrete, brick or wood. The foundation can also have different shapes, such as circular, oval, rectangular or polygonal. The foundation should be level, stable and strong enough to withstand the load of your structure. The foundation should also be slightly larger than the outline of your walls to prevent them from collapsing or cracking.
+- Roof materials. These are the materials that you use to build the roof for your structure. The roof is the element that covers and protects your structure from rain, sun and wind. The roof can be made of different materials, such as wood, metal, tile or thatch. The roof can also have different shapes, such as flat, pitched or domed. The roof should be attached securely to the walls and supported by columns or beams if necessary. The roof should also have adequate ventilation and insulation to regulate the temperature and humidity inside your structure.
+- Door and window materials. These are the materials that you use to add doors and windows to your structure. Doors and windows are the elements that allow access and light to your structure. Doors and windows can be made of different materials, such as wood, metal or glass. Doors and windows can also have different shapes, sizes and styles, depending on your needs and preferences. Doors and windows should be placed and secured properly in your walls to prevent gaps or leaks.
+- Floor materials. These are the materials that you use to add floors to your structure. Floors are the elements that provide a smooth and comfortable surface to walk on inside your structure. Floors can be made of different materials, such as wood, tile or carpet. Floors can also have different colors, patterns and textures, depending on your needs and preferences. Floors should be level, stable and clean inside your structure.
+- Furniture and appliance materials. These are the materials that you use to add furniture and appliances to your structure. Furniture and appliances are the elements that make your structure functional and comfortable for living or working. Furniture and appliances can be made of different materials, such as wood, metal or plastic. Furniture and appliances can also have different shapes, sizes and functions, depending on your needs and preferences. Furniture and appliances should be placed and arranged properly inside your structure to optimize space and convenience.
+- Decoration materials. These are the materials that you use to decorate your structure. Decoration is the element that adds beauty and personality to your structure. Decoration can be made of different materials, such as paint, tile or mural. Decoration can also have different colors,
+
+
+# Chapter 3: Site and Foundation for Hyperadobe.
+
+Hyperadobe is a low-cost, low-impact and sustainable building method that uses earth-filled mesh tubes to create walls, domes and other structures. Hyperadobe can be used in various climates and terrains, as long as there is enough soil available to fill the tubes. However, before starting any hyperadobe project, it is essential to choose a suitable site and prepare a solid foundation for the structure.
+
+## Site Selection
+
+The site selection is one of the most important steps in any construction project, as it affects the design, cost, durability and comfort of the building. When choosing a site for hyperadobe, there are some factors to consider:
+
+- **Soil quality and availability**: The soil on the site should be suitable for filling the mesh tubes and for making plaster or mortar if needed. Ideally, the soil should have a balanced mix of sand, clay and organic matter, with a low amount of rocks and gravel. The soil should also be tested for contaminants such as heavy metals, pesticides or salt that could affect the health of the occupants or the environment. The site should have enough soil to fill the tubes without depleting or damaging the surrounding land. If the soil on the site is not adequate or sufficient, it may be necessary to import soil from another source or to amend it with additives such as lime, cement or straw.
+
+- **Topography and drainage**: The site should have a level or gently sloping terrain that allows for easy access and construction. The site should also have good drainage to prevent water accumulation and erosion that could undermine the foundation or damage the walls. If the site is prone to flooding or has a high water table, it may be necessary to raise the foundation above the ground level or to install drainage systems such as pipes, ditches or swales.
+
+- **Climate and orientation**: The site should have a favorable climate that matches the design and function of the building. For example, if the building is intended for passive solar heating or cooling, it should face south in the northern hemisphere or north in the southern hemisphere to maximize sun exposure. The site should also have adequate ventilation and shading to regulate temperature and humidity. If the site is exposed to strong winds, storms or earthquakes, it may be necessary to reinforce the structure or to use windbreaks or buffers such as trees or fences.
+
+- **Legal and social aspects**: The site should comply with any local codes, regulations or permits that apply to hyperadobe construction. It is advisable to consult with the authorities and neighbors before starting any project to avoid any legal or social issues that could arise during or after the construction. It is also important to respect the cultural and environmental values of the community and to involve them in the planning and building process if possible.
+
+## Foundation Preparation
+
+The foundation is the base of the structure that supports the weight and transfers it to the ground. A good foundation should be strong, stable and durable, as well as resistant to moisture, insects and rodents. The foundation should also be compatible with the soil type and the climate of the site.
+
+There are different types of foundations that can be used for hyperadobe, depending on the size, shape and design of the structure. Some of the most common ones are:
+
+- **Slab foundation**: This is a flat concrete slab that covers the entire area of the structure. It is usually reinforced with steel bars or mesh and has a thickness of about 10 to 20 cm. The slab foundation is suitable for level or slightly sloping sites with good drainage and soil compaction. It provides a smooth and even surface for laying the mesh tubes and protects them from moisture and pests. However, it is also more expensive and labor-intensive than other types of foundations and may crack or shift due to soil movement or temperature changes.
+
+- **Strip foundation**: This is a continuous concrete strip that runs along the perimeter of the structure. It is usually reinforced with steel bars or mesh and has a width of about 30 to 50 cm and a depth of about 50 to 100 cm. The strip foundation is suitable for level or moderately sloping sites with good drainage and soil compaction. It provides a strong and stable edge for laying the mesh tubes and protects them from moisture and pests. However, it is also more costly and time-consuming than other types of foundations and may not be adequate for large or complex structures.
+
+- **Pier foundation**: This is a series of concrete columns or pillars that support the structure at specific points. The piers are usually reinforced with steel bars or mesh and have a diameter of about 20 to 40 cm and a depth of about 100 to 200 cm. The pier foundation is suitable for uneven or steeply sloping sites with poor drainage or soil compaction. It allows for adjusting the height and level of the structure and reduces the contact between the mesh tubes and the ground. However, it is also more difficult and risky to install than other types of foundations and requires careful calculation and alignment.
+
+- **Rubble trench foundation**: This is a trench filled with stones, gravel or rubble that runs along the perimeter of the structure. The trench has a width of about 50 to 100 cm and a depth of about 50 to 100 cm. The rubble trench foundation is suitable for level or slightly sloping sites with good drainage and soil compaction. It provides a flexible and permeable base for laying the mesh tubes and allows for water drainage and thermal insulation. However, it is also more prone to erosion or settlement than other types of foundations and may not be sufficient for heavy or tall structures.
+
+## Foundation Construction
+
+The foundation construction is the process of preparing the site and building the foundation for the structure. The foundation construction should follow these general steps:
+
+- **Site clearing and leveling**: The site should be cleared of any vegetation, debris or obstacles that could interfere with the construction. The site should also be leveled or graded to create a flat or slightly sloping surface for the foundation. Any excess or deficient soil should be removed or added as needed.
+
+- **Soil testing and compaction**: The soil on the site should be tested for its composition, moisture content and bearing capacity. The soil should also be compacted to increase its density and stability. Soil compaction can be done by using manual or mechanical tools such as rammers, rollers or tampers.
+
+- **Foundation layout and marking**: The foundation layout should be drawn on a paper or a computer and transferred to the site using measuring tapes, strings, stakes or spray paints. The foundation layout should indicate the dimensions, shape and position of the structure and the foundation. The foundation marking should be visible and accurate to avoid any errors or deviations during the construction.
+
+- **Foundation excavation and filling**: The foundation excavation is the digging of trenches or holes for the foundation. The foundation excavation should follow the foundation layout and marking and have the required width, depth and slope. The foundation filling is the placing of concrete, stones, gravel or rubble in the trenches or holes for the foundation. The foundation filling should follow the foundation layout and marking and have the required thickness, level and compaction.
+
+- **Foundation curing and finishing**: The foundation curing is the hardening of concrete for the foundation. The foundation curing should take at least 28 days to ensure its strength and durability. The foundation curing should be protected from direct sunlight, rain or frost by using plastic sheets, straw or other materials. The foundation finishing is the smoothing or leveling of concrete for the foundation. The foundation finishing should be done before the concrete sets completely by using trowels, floats or screeds.
+
+## Foundation Maintenance and Repair
+
+The foundation maintenance and repair is the process of inspecting and fixing any problems or damages that may occur in the foundation over time. The foundation maintenance and repair should follow these general steps:
+
+- **Foundation inspection**: The foundation inspection is the regular checking of the foundation for any signs of cracks, leaks, erosion, settlement or movement. The foundation inspection should be done at least once a year or after any extreme weather events or natural disasters. The foundation inspection should also include the drainage and ventilation systems around the foundation.
+
+- **Foundation cleaning**: The foundation cleaning is the removal of any dirt, debris or vegetation that may accumulate on or around the foundation. The foundation cleaning should be done as needed to prevent any blockages, infestations or deterioration of the foundation. The foundation cleaning should also include the drainage and ventilation systems around the foundation.
+
+- **Foundation sealing**: The foundation sealing is the application of a waterproof or protective coating on the foundation to prevent any moisture or pest infiltration. The foundation sealing should be done as needed to maintain the integrity and durability of the foundation. The foundation sealing should also include the joints and gaps between the foundation and the walls.
+
+- **Foundation repairing**: The foundation repairing is the fixing of any cracks, leaks, erosion, settlement or movement that may affect the foundation. The foundation repairing should be done as soon as possible to avoid any further damage or collapse of the structure. The foundation repairing may involve filling, patching, reinforcing or replacing parts of the foundation depending on the type and extent of the problem.
+
+## Foundation Tips and Tricks
+
+The foundation tips and tricks are some useful suggestions and recommendations that can help to improve the quality and performance of the foundation. Some of the foundation tips and tricks are:
+
+- **Use local materials**: Whenever possible, use local materials for the foundation to reduce the cost, environmental impact and transportation difficulties. Local materials may also be more compatible with the soil and climate of the site.
+
+- **Use recycled materials**: Whenever possible, use recycled materials for the foundation to save money, resources and waste. Recycled materials may include concrete, bricks, stones, tires or bottles.
+
+- **Use natural materials**: Whenever possible, use natural materials for the foundation to enhance the aesthetics, comfort and sustainability of the structure. Natural materials may include wood, bamboo, straw or cob.
+
+- **Use appropriate tools**: Use appropriate tools for the foundation construction to ensure safety, accuracy and efficiency. Appropriate tools may include shovels, hoes, rakes, wheelbarrows, buckets, levels, plumb lines, hammers, nails, saws or drills.
+
+- **Use proper techniques**: Use proper techniques for the foundation construction to ensure quality, durability and stability. Proper techniques may include measuring, marking, digging, filling, compacting, curing or finishing.
+
+- **Use adequate reinforcement**: Use adequate reinforcement for the foundation to increase its strength and resistance. Adequate reinforcement may include steel bars, mesh, wires or fibers.
+
+- **Use sufficient insulation**: Use sufficient insulation for the foundation to reduce heat loss or gain and to prevent condensation or frost. Sufficient insulation may include straw bales, polystyrene boards or foam.
+
+- **Use effective drainage**: Use effective drainage for the foundation to prevent water accumulation or erosion that could damage the foundation or the walls. Effective drainage may include pipes, ditches or swales.
+
+# Chapter 4: Mesh Tubes and Filling for Hyperadobe.
+
+Mesh tubes and filling are the main components of hyperadobe construction. Mesh tubes are long cylindrical bags made of synthetic or natural fibers that are woven into a mesh pattern. Filling is the material that is used to fill the mesh tubes and create the walls. Mesh tubes and filling should be chosen and prepared carefully to ensure the quality and performance of the structure.
+
+## Mesh Tube Selection
+
+The mesh tube selection is the process of choosing the type, size and quantity of mesh tubes for the structure. The mesh tube selection should consider these factors:
+
+- **Material**: The material of the mesh tubes should be durable, flexible and resistant to UV rays, moisture, insects and rodents. The material should also be compatible with the filling and the plaster or mortar if used. Synthetic materials such as polypropylene or nylon are commonly used for mesh tubes as they offer these qualities. However, they are also non-biodegradable and may have a negative environmental impact. Natural materials such as cotton or jute are also possible for mesh tubes as they are biodegradable and eco-friendly. However, they are also more prone to decay or damage and may require special treatment or protection.
+
+- **Size**: The size of the mesh tubes should match the design and function of the structure. The size should also be suitable for the available soil and labor. The size of the mesh tubes includes the diameter, length and thickness. The diameter of the mesh tubes determines the width and height of the walls. The diameter of the mesh tubes can range from 10 to 50 cm depending on the desired thickness and strength of the walls. The length of the mesh tubes determines the length and shape of the walls. The length of the mesh tubes can vary from a few meters to hundreds of meters depending on the available space and equipment. The thickness of the mesh tubes determines the durability and stability of the walls. The thickness of the mesh tubes can vary from 1 to 5 mm depending on the quality and density of the material.
+
+- **Quantity**: The quantity of the mesh tubes should be enough to cover the entire area and perimeter of the structure. The quantity of the mesh tubes should also account for any waste or loss that may occur during transportation, storage or construction. The quantity of the mesh tubes can be estimated by using a simple formula:
+
+Quantity = (Area x 2) / (Diameter x Pi)
+
+Where:
+
+- Quantity is the number of mesh tubes needed in meters.
+- Area is the total floor area of the structure in square meters.
+- Diameter is the diameter of the mesh tubes in meters.
+- Pi is a constant value equal to 3.14.
+
+For example, if the structure has a floor area of 50 square meters and uses mesh tubes with a diameter of 20 cm, then:
+
+Quantity = (50 x 2) / (0.2 x 3.14)
+
+Quantity = 100 / 0.628
+
+Quantity = 159.24
+
+Therefore, about 160 meters of mesh tubes are needed for this structure.
+
+## Mesh Tube Preparation
+
+The mesh tube preparation is the process of getting the mesh tubes ready for the construction. The mesh tube preparation should follow these general steps:
+
+- **Transportation and storage**: The mesh tubes should be transported and stored in a safe and convenient way. The mesh tubes should be rolled or folded neatly and packed in bags or boxes. The mesh tubes should be labeled with their type, size and quantity. The mesh tubes should be kept away from direct sunlight, rain or frost that could damage or degrade them. The mesh tubes should also be protected from insects, rodents or animals that could chew or tear them.
+
+- **Cutting and sewing**: The mesh tubes should be cut and sewn according to the design and layout of the structure. The mesh tubes should be cut with sharp scissors or knives to avoid fraying or unraveling. The mesh tubes should be sewn with strong thread or wire to prevent opening or splitting. The mesh tubes should be sewn with a simple stitch or a knot at the ends or at the corners. The mesh tubes should also be sewn with a loop or a handle at the ends to facilitate filling and handling.
+
+- **Filling and closing**: The mesh tubes should be filled and closed with the filling material. The filling material should be moistened and mixed well before filling. The filling material should also be free of any rocks, roots or debris that could puncture or clog the mesh tubes. The mesh tubes should be filled with a shovel, a bucket, a funnel or a machine. The mesh tubes should be filled evenly and firmly to avoid any gaps or bulges. The mesh tubes should also be filled slightly more than their diameter to allow for some compression and settling. The mesh tubes should be closed with a stitch, a knot, a clip or a tie at the ends or at the joints.
+
+## Filling Selection
+
+The filling selection is the process of choosing the type, quality and quantity of filling material for the structure. The filling selection should consider these factors:
+
+- **Material**: The material of the filling should be compatible with the mesh tubes and the plaster or mortar if used. The material should also be suitable for the soil and climate of the site. The material of the filling is usually soil, as it is abundant, cheap and eco-friendly. However, other materials such as sand, gravel, clay or lime can also be used or mixed with soil to improve its properties.
+
+- **Quality**: The quality of the filling should be tested and verified before use. The quality of the filling should include its composition, moisture content and compaction. The composition of the filling should have a balanced mix of sand, clay and organic matter, with a low amount of rocks and gravel. The composition of the filling can be determined by using a simple test such as the jar test or the ribbon test. The moisture content of the filling should be around 10 to 15%, as it affects its workability and strength. The moisture content of the filling can be measured by using a simple tool such as a moisture meter or a scale. The compaction of the filling should be around 90 to 95%, as it affects its density and stability. The compaction of the filling can be measured by using a simple tool such as a penetrometer or a proctor test.
+
+- **Quantity**: The quantity of the filling should be enough to fill all the mesh tubes for the structure. The quantity of the filling should also account for any waste or loss that may occur during transportation, storage or construction. The quantity of the filling can be estimated by using a simple formula:
+
+Quantity = (Volume x Density) / (1000 x Efficiency)
+
+Where:
+
+- Quantity is the amount of filling needed in tons.
+- Volume is the total volume of the mesh tubes in cubic meters.
+- Density is the density of the filling in kilograms per cubic meter.
+- Efficiency is the percentage of filling that is actually used in the construction.
+
+For example, if the structure has a volume of 100 cubic meters and uses soil with a density of 1600 kilograms per cubic meter and an efficiency of 80%, then:
+
+Quantity = (100 x 1600) / (1000 x 0.8)
+
+Quantity = 160000 / 800
+
+Quantity = 200
+
+Therefore, about 200 tons of soil are needed for this structure
+
+## Filling Preparation
+
+The filling preparation is the process of getting the filling material ready for the construction. The filling preparation should follow these general steps:
+
+- **Transportation and storage**: The filling material should be transported and stored in a safe and convenient way. The filling material should be piled or spread on a flat and dry surface. The filling material should be covered with plastic sheets, straw or other materials to protect it from direct sunlight, rain or frost that could affect its moisture content or quality. The filling material should also be protected from insects, rodents or animals that could contaminate or consume it.
+
+- **Moistening and mixing**: The filling material should be moistened and mixed well before use. The filling material should be sprayed or sprinkled with water to achieve the desired moisture content. The filling material should also be stirred or turned with a shovel, a hoe, a rake or a machine to ensure a uniform composition and texture.
+
+- **Screening and sorting**: The filling material should be screened and sorted to remove any rocks, roots or debris that could puncture or clog the mesh tubes. The filling material should be passed through a sieve, a screen or a mesh to separate the fine particles from the coarse ones. The fine particles can be used for filling the mesh tubes, while the coarse ones can be used for other purposes such as drainage or landscaping.
+
+# Chapter 5: Wall Construction for Hyperadobe.
+
+Wall construction is the process of building the walls for the structure using the mesh tubes and filling. Wall construction should follow the design and layout of the structure and adhere to the principles and techniques of hyperadobe. Wall construction should also ensure the quality and performance of the structure in terms of strength, stability, durability and comfort.
+
+## Wall Layout and Marking
+
+The wall layout and marking is the process of transferring the design and layout of the walls to the foundation and the site. The wall layout and marking should indicate the position, shape and dimensions of the walls. The wall layout and marking should also include any openings, curves or angles that may be part of the design. The wall layout and marking should follow these general steps:
+
+- **Drawing and measuring**: The wall layout should be drawn on a paper or a computer and measured with a scale or a ruler. The wall layout should show the plan view and the elevation view of the walls. The wall layout should also show any details or specifications that may be relevant for the construction.
+
+- **Transferring and marking**: The wall layout should be transferred to the foundation and the site using measuring tapes, strings, stakes or spray paints. The wall layout should be aligned with the foundation and the site and have the same scale and orientation as the drawing. The wall marking should be visible and accurate to avoid any errors or deviations during the construction.
+
+## Wall Laying and Stacking
+
+The wall laying and stacking is the process of placing and arranging the mesh tubes and filling on the foundation and the site according to the wall layout and marking. The wall laying and stacking should follow these general steps:
+
+- **Starting and ending**: The wall laying and stacking should start from one end or corner of the wall and proceed to the other end or corner. The wall laying and stacking should also end at a point where the mesh tubes can be closed or joined securely.
+
+- **Leveling and aligning**: The wall laying and stacking should ensure that the mesh tubes and filling are level and aligned with the wall layout and marking. The wall laying and stacking should also ensure that the mesh tubes and filling are level and aligned with each other. The wall leveling and aligning can be done by using levels, plumb lines, strings or rulers.
+
+- **Shaping and curving**: The wall laying and stacking should create the desired shape and curve of the wall according to the design. The wall shaping and curving can be done by bending, twisting or folding the mesh tubes and filling. The wall shaping and curving can also be done by using forms, molds or templates.
+
+- **Stabilizing and compacting**: The wall laying and stacking should stabilize and compact the mesh tubes and filling to increase their strength and stability. The wall stabilizing and compacting can be done by tamping, hammering or vibrating the mesh tubes and filling. The wall stabilizing and compacting can also be done by using bars, wires or ropes to tie or reinforce the mesh tubes and filling.
+
+# Chapter 6: Plastering and Finishing for Hyperadobe.
+
+Plastering and finishing are the processes of applying and decorating the final layer of material on the walls. Plastering and finishing should cover and protect the mesh tubes and filling from weathering, erosion or damage. Plastering and finishing should also enhance the aesthetics, comfort and functionality of the structure.
+
+## Plaster Selection
+
+The plaster selection is the process of choosing the type, quality and quantity of plaster for the walls. The plaster selection should consider these factors:
+
+- **Material**: The material of the plaster should be compatible with the mesh tubes and filling and the climate and environment of the site. The material should also be durable, flexible and resistant to cracks, moisture, insects and rodents. The material of the plaster is usually a mixture of sand, clay and water, as it is cheap, easy and eco-friendly. However, other materials such as lime, cement or gypsum can also be used or added to the plaster to improve its properties.
+
+- **Quality**: The quality of the plaster should be tested and verified before use. The quality of the plaster should include its composition, moisture content and consistency. The composition of the plaster should have a balanced ratio of sand, clay and water, depending on the desired texture and strength of the plaster. The composition of the plaster can be determined by using a simple test such as the ball test or the drop test. The moisture content of the plaster should be around 20 to 30%, as it affects its workability and drying time. The moisture content of the plaster can be measured by using a simple tool such as a moisture meter or a scale. The consistency of the plaster should be smooth and creamy, without any lumps or clumps. The consistency of the plaster can be adjusted by adding more water or sand as needed.
+
+- **Quantity**: The quantity of the plaster should be enough to cover all the walls for the structure. The quantity of the plaster should also account for any waste or loss that may occur during transportation, storage or application. The quantity of the plaster can be estimated by using a simple formula:
+
+Quantity = (Area x Thickness) / (1000 x Efficiency)
+
+Where:
+
+- Quantity is the amount of plaster needed in tons.
+- Area is the total wall area of the structure in square meters.
+- Thickness is the thickness of the plaster in millimeters.
+- Efficiency is the percentage of plaster that is actually used in the application.
+
+For example, if the structure has a wall area of 200 square meters and uses a plaster with a thickness of 10 millimeters and an efficiency of 80%, then:
+
+Quantity = (200 x 10) / (1000 x 0.8)
+
+Quantity = 2000 / 800
+
+Quantity = 2.5
+
+Therefore, about 2.5 tons of plaster are needed for this structure.
+
+## Plaster Preparation
+
+The plaster preparation is the process of getting the plaster ready for the application. The plaster preparation should follow these general steps:
+
+- **Transportation and storage**: The plaster should be transported and stored in a safe and convenient way. The plaster should be kept in bags or buckets that are sealed and labeled. The plaster should be stored in a cool and dry place that is protected from direct sunlight, rain or frost that could affect its moisture content or quality. The plaster should also be protected from insects, rodents or animals that could contaminate or consume it.
+
+- **Moistening and mixing**: The plaster should be moistened and mixed well before use. The plaster should be sprayed or sprinkled with water to achieve the desired moisture content. The plaster should also be stirred or turned with a shovel, a hoe, a rake or a machine to ensure a uniform composition and consistency.
+
+- **Screening and sorting**: The plaster should be screened and sorted to remove any rocks, roots or debris that could affect its texture or quality. The plaster should be passed through a sieve, a screen or a mesh to separate the fine particles from the coarse ones. The fine particles can be used for the plaster, while the coarse ones can be used for other purposes such as drainage or landscaping.
+
+## Plaster Application and Smoothing
+
+The plaster application and smoothing is the process of applying and smoothing the plaster on the walls. The plaster application and smoothing should follow these general steps:
+
+- **Wetting and priming**: The walls should be wetted and primed before applying the plaster. The walls should be sprayed or sprinkled with water to moisten and clean them. The walls should also be primed with a thin layer of plaster or a bonding agent to improve the adhesion and cohesion of the plaster.
+
+- **Applying and spreading**: The plaster should be applied and spread on the walls using a trowel, a spatula, a brush or a machine. The plaster should be applied in thin and even layers that cover the entire surface of the walls. The plaster should also be spread in a horizontal or vertical direction that follows the shape and curve of the walls.
+
+- **Smoothing and leveling**: The plaster should be smoothed and leveled on the walls using a trowel, a float, a sponge or a machine. The plaster should be smoothed and leveled to remove any bumps, ridges or gaps that may affect its appearance or quality. The plaster should also be smoothed and leveled to create a flat or slightly curved surface that matches the design and function of the walls.
+
+## Plaster Curing and Drying
+
+The plaster curing and drying is the process of hardening and drying the plaster on the walls. The plaster curing and drying should follow these general steps:
+
+- **Curing and protecting**: The plaster should be cured and protected for at least 28 days to ensure its strength and durability. The plaster should be cured by keeping it moist and humid by spraying or sprinkling water on it regularly. The plaster should also be protected from direct sunlight, rain or frost by using plastic sheets, straw or other materials.
+
+- **Drying and ventilating**: The plaster should be dried and ventilated gradually to prevent any cracks or shrinkage that may occur due to rapid moisture loss. The plaster should be dried by allowing air circulation and evaporation by removing or lifting the plastic sheets, straw or other materials. The plaster should also be ventilated by opening doors, windows or vents to allow fresh air and moisture exchange.
+
+- **Finishing and decorating**: The plaster should be finished and decorated according to the design and preference. The plaster should be finished by applying a final coat of plaster or a sealant to enhance its appearance and protection. The plaster should also be decorated by adding color, texture or pattern to the plaster using paints, pigments, stones, tiles or other materials
+
